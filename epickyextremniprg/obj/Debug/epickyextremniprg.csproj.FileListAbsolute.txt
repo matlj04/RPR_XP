@@ -1,0 +1,9 @@
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\bin\Debug\epickyextremniprg.exe.config
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\bin\Debug\epickyextremniprg.exe
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\bin\Debug\epickyextremniprg.pdb
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\obj\Debug\epickyextremniprg.csprojAssemblyReference.cache
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\obj\Debug\epickyextremniprg.Properties.Resources.resources
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\obj\Debug\epickyextremniprg.csproj.GenerateResource.cache
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\obj\Debug\epickyextremniprg.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\obj\Debug\epickyextremniprg.exe
+G:\Dokumenty\Visual Studio 2019\epickyextremniprg\epickyextremniprg\obj\Debug\epickyextremniprg.pdb
